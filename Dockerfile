@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM larjim/kademlialab:latest
 
 # Add the commands needed to put your compiled go binary in the container and
 # run it when the container starts.
